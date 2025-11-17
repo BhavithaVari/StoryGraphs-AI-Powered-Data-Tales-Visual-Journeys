@@ -1,4 +1,4 @@
-# Imarticus Data Science Internship - Assessment (Sample solution)
+
 # StoryGraphs: AI-Powered Data Tales & Visual Journeys
 
 ## Project Overview
@@ -34,6 +34,8 @@ StoryGraphs produces:
 - /assets - saved plots used in the report
 - /sample_data.csv - bundled sample CSV used for demo
 - README.md - this file
+
+# Imarticus Data Science Internship - Assessment (Sample solution)
 
 
 ## Author
